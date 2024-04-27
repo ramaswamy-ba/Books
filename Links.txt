@@ -2,3 +2,6 @@ C++
 https://www.open-std.org/jtc1/sc22/wg21/docs/TR18015.pdf -- Technical Report on C++ Performance
 
 https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html -- Parallel Programming
+
+https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html -- C++20 Features with example
+https://github.com/mission-peace/interview -- Codings
